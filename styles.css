@@ -1,0 +1,29 @@
+.timer-div{
+   
+   
+    background-image: url("https://k9h2z2w9.stackpathcdn.com/wp-content/uploads/Clock-Faces-Concept-NBS-750x375.jpg");    
+    border: solid 2px red;
+    width: auto;
+    height: auto;
+}
+
+.time-left{
+    font-size: 50px;
+}
+.myform{
+    padding: 3%;
+    width: 150px;
+    height: 150px;
+}
+
+.timer-class{
+    margin: 12px;
+}
+
+.timer-Minutes{
+    margin: 12px;
+}
+
+.timer-Seconds{
+    margin: 12px;
+}
